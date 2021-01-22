@@ -6,3 +6,5 @@ colorama
 requests
 readchar
 and maybe more i forgot this shit is old 
+
+yeah so :)
